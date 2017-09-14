@@ -1,2 +1,2 @@
 # hello-world
-First Repository
+This Repository is First Repository by Hello World of GitHub.
